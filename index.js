@@ -5,29 +5,29 @@
 const Questions = [{
 	q: "What is capital of India?",
 	ans: "Delhi",
-	a: [{ text: "Gandhinagar", isCorrect: false },
-	{ text: "Surat", isCorrect: false },
-	{ text: "Delhi", isCorrect: true },
-	{ text: "Mumbai", isCorrect: false }
+	a: [{ text: "Gandhinagar" },
+	{ text: "Surat" },
+	{ text: "Delhi"},
+	{ text: "Mumbai" }
 	]
 },
 {
 	q: "What is the capital of Thailand?",
 	ans: "Bangkok",
-	a: [{ text: "Lampang", isCorrect: false, isSelected: false },
-	{ text: "Phuket", isCorrect: false },
-	{ text: "Ayutthaya", isCorrect: false },
-	{ text: "Bangkok", isCorrect: true }
+	a: [{ text: "Lampang"},
+	{ text: "Phuket" },
+	{ text: "Ayutthaya" },
+	{ text: "Bangkok"}
 	]
 
 },
 {
 	q: "What is the capital of Gujarat",
 	ans: "Gandhinagar",
-	a: [{ text: "Surat", isCorrect: false },
-	{ text: "Vadodara", isCorrect: false },
-	{ text: "Gandhinagar", isCorrect: true },
-	{ text: "Rajkot", isCorrect: false }
+	a: [{ text: "Surat" },
+	{ text: "Vadodara" },
+	{ text: "Gandhinagar"},
+	{ text: "Rajkot" }
 	]
 
 }
